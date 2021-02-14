@@ -12,7 +12,8 @@ class MorinProblem(Scene):
 
         Conditions = TexMobject(r"""
         m_1 = m_2 \\ 
-        \theta_0 = \frac{\pi}{6}
+        \theta_0 = \frac{\pi}{6}\\
+        g = 5
         """).to_edge(UP+LEFT)
         self.add(Conditions) 
         def y(t_1):
