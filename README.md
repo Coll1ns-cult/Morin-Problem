@@ -1,0 +1,1 @@
+This animation is made by using manim - an animation engine developed by 3blue1brown. Problem itself is from Morin - textbook for physics undergraduates. Here to solve differential equations I used runge-kutta 4th order with step size dt = 0.1. 
